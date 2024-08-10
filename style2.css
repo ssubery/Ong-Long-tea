@@ -1,0 +1,12 @@
+.replace2{
+background-color: rgb(255, 255, 255);
+width: 100%;
+height: max-content;
+color: rgb(0, 0, 0);
+}
+
+.ggiv{
+  width: 500px;
+  height: fit-content;
+  background-color: aqua;
+}
